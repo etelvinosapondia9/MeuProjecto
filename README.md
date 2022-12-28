@@ -1,2 +1,2 @@
-# MeuProjecto
-usando o github a apartir do VSCode
+# Calculadora
+Um design de uma calculadora
